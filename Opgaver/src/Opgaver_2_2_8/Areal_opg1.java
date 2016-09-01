@@ -13,6 +13,9 @@ public class Areal_opg1 {
 		int b = 5; // bredde er defineret
 		System.out.println("Arealet af rektanglet " +l*b );
 		
+		System.out.println("Test 21");
+		
+		
 		System.out.println("--------------------");
 		
 		// metode 2 vi indsætter de ønskede værdi ind i inputtet
