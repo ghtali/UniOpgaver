@@ -14,6 +14,7 @@ public class Areal_opg1 {
 		System.out.println("Arealet af rektanglet " +l*b );
 		
 		//Added some comment
+		// Lets party 
 		
 		
 		
